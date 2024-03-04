@@ -23,7 +23,7 @@ This is a simple calculator created using HTML, CSS, and JavaScript.
 
 ## Preview
 
-<img width="250" height="350" alt="Ekran Resmi 2024-03-04 03 09 30" src="https://github.com/atakanAslan1/calculator/assets/107197019/a5b6dc15-3992-499f-9148-087788c428af">
+<img width="400" height="600" alt="Ekran Resmi 2024-03-04 03 09 30" src="https://github.com/atakanAslan1/calculator/assets/107197019/a5b6dc15-3992-499f-9148-087788c428af">
 
 
 ## Contributing
